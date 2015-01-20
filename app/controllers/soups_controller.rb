@@ -40,4 +40,7 @@ class SoupsController < ApplicationController
 	def add_spices
 	end
 
+	def add_veggies
+	end
+
 end

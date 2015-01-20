@@ -12,4 +12,11 @@ class CategoriesController < ApplicationController
 
 	end
 
+	def edit
+
+	end
+
+	def add_description
+	end
+
 end
