@@ -19,4 +19,7 @@ class CategoriesController < ApplicationController
 	def add_description
 	end
 
+	def add_chef
+	end
+
 end
