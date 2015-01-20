@@ -37,4 +37,7 @@ class SoupsController < ApplicationController
 	def destroy
 	end
 
+	def add_spices
+	end
+
 end
