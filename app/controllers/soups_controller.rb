@@ -34,4 +34,7 @@ class SoupsController < ApplicationController
 		@soup = Soup.find(params[:id])
 	end
 
+	def destroy
+	end
+
 end
